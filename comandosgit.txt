@@ -1,0 +1,40 @@
+Hola a todos este archivo se realiza para contener 
+comandos de git
+
+
+primer comando 
+	nos sirve para indicar que deseamos iniciar git
+	en determinado proyecto o carpeta.
+
+	git init
+
+
+segundo comando
+	nos sirve para verificar el estado de los archivos
+	dentro del proyecto
+
+	git status
+
+
+tercer comando 
+	nos sirve para cargar nuestros archivos al área de stagin	
+
+	git add nombredelarchivo
+
+
+cuarto comando
+	nos sirve para guardar los cambios realizados
+	
+	git commit -m "descripción del cambio realizado"
+
+quinto comando
+
+	nos sirve para cambiar de una rama a otra
+	git chekout "nombre de la rama"
+
+sexto comando 
+      
+        Devuelve todo al principio del rebase
+
+	git reabse --abort
+
